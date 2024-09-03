@@ -1,0 +1,12 @@
+Sledeće će biti lista mejlova i nekih dodatnih informacija o većini nastavnika.
+
+Profesorka iz Srpskog - "Sandra Jovanović":
+  mail: sandra.jovanovic@teslabg.edu.rs
+  fb nalog: https://www.facebook.com/people/Sandra-Jovanovi%C4%87/pfbid0VWCudWYCrUGYmG5gGp6GoxYKUGcY854edqtJhXhGCpgC3B1oz7w4H5GbbLwAcvybl/
+  opis nastavnika:
+    Stroga nastavnica koja voli da se dernja, preporučljivo je ne nervirati je.
+
+Profesorka iz Engleskog - "Aleksandra Radić":
+  -- TO DO -- 
+  opis:
+    Admin glavnog školskog Ig naloga
