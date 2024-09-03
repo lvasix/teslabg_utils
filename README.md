@@ -1,2 +1,2 @@
-# SKRIPTE
+# IMAJTE U VIDU...
 Sve skripte ce biti napisane u pythonu/c++ na vama je da ih kompileujete za svoj sistem. Sav materijal će biti onaj koj se dobija od nastavnika sa Google Učionice i materijal koj se nađe na internetu za neke predmete. Materijali u ovom repozitorijumu će biti centrirani više ka smeru "Elektrotehničar za elektroniku i automatiku" jer je to smer koj ja pohađam, naravno PR sa stvarima za druge predmete/smerove su dobrodošli.
